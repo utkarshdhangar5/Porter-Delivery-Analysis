@@ -1,0 +1,12 @@
+Thumbs.db
+Desktop.ini
+
+~$*.xlsx
+*.tmp
+
+__pycache__/
+.ipynb_checkpoints/
+
+.vscode/
+
+data/clean/*.csv
