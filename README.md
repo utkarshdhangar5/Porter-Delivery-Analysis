@@ -151,28 +151,41 @@ Categories with the highest proportion of above-average orders:
 - TEXT()
 
 ---
+## Dashboard
+The dashboard provides an interactive overview of Porter Delivery's operational performance, enabling stakeholders to monitor delivery efficiency, market performance, demand trends, and revenue insights.
+
+![Porter Delivery Dashboard](Images/Dashboard_image.png)
+
+
 
 ## Project Structure
 
-```text
+``` text
 porter-delivery-analysis/
-│
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── excel/
-│   ├── porter_delivery_analysis.xlsx
-|   ├── basic_ques_analysis.xlsx
-│   └── medium_ques_analysis.xlsx
-│
-├── docs/
-│   └── business_questions.pdf 
-│
-├── images/
-│   └── dashboard_screenshot.png
+├── Data/
+│   ├── Raw Data/
+│   └── Clean Data/
 |
-├── report/
-│   └── porter_delivery_analysis_report.pdf
-│
+├── Data/
+|   └── Porter_business_rewuirements.pdf/
+|
+├── Excel/
+│   ├── Porter_Delivery_Analysis.xlsx
+|   ├── Basic_Ques_Analysis.xlsx
+|   ├── Medium_Ques_Analysis.xlsx
+│   └── Dashboard.xlsx
+|
+├── Images/
+│   └── Dashboard_image.png
+|
+├── Reports/
+│   └── Porter_Delivery_Project_Report.pdf
+|
+├── .gitignore
+| 
 └── README.md
+```
+
+## Author
+
+**Utkarsh Dhangar**
